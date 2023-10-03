@@ -1,0 +1,48 @@
+.logo{
+    width: 100%;
+}
+.para{
+    height: 100px;
+    justify-content:space-around;
+    padding: 50px;
+}
+.heading{
+    text-align: center;
+}
+button{
+    background-color: chocolate;
+    font-size: x-large;
+   vertical-align: middle;
+
+}
+.gap{
+    padding: 10px;
+    justify-content: space-around;
+    height: 80px;
+}
+.newpara{
+    text-align: center;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    padding-bottom: 30px;
+}
+.round{
+   width: 100px;
+   padding-left: 30px;
+}
+section{
+    
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.letter{
+    font-family: bold;
+    font-size: x-large;
+}
+td{
+   height:150px;
+}
